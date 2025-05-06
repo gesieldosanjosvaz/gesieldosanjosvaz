@@ -44,4 +44,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gesiel-vaz) [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/gesiel_vaz/) [![gesieldosanjosvaz@gmail.com](https://img.shields.io/badge/-gesieldosanjosvaz@gmail.com-FFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gesieldosanjosvaz@gmail.com)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gesielvaz&theme=radical&hide_border=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gesieldosanjosvaz&theme=radical&hide_border=true)
