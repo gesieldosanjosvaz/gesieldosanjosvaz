@@ -39,16 +39,6 @@
 ### Virtualização e Implantação
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
-## O que eu posso oferecer
-
-- Tenho 2 anos e 8 meses de experiência na área de programação.
-- Desenvolvimento de APIs funcionais.
-- Criação de interfaces dinâmicas e responsivas.
-- Integração com bancos de dados relacionais.
-- Resolução de problemas e otimização de performance.
-- Capacidade de trabalhar tanto em back-end quanto em front-end.
-- Apesar de não ter fluência em inglês, consigo me adaptar com a rotina diária de um programador.
-- Atualmente, trabalho em uma empresa internacional, onde o principal idioma é o espanhol, onde também sinto-me adaptado com a linguagem em questão.
 
 ## Conecte-se comigo
 
