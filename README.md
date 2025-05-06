@@ -1,8 +1,5 @@
 
 # Desenvolvedor Back-End e Front-End 
-- Conhecimentos Básicos nas Seguintes Tecnologias
-
-## Tecnologias
 
 ### Back-End
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://golang.org/)
